@@ -1,4 +1,4 @@
-﻿											![Logo](https://avatars.githubusercontent.com/u/49516884?s=200&v=4)
+![Logo](https://avatars.githubusercontent.com/u/49516884?s=200&v=4)
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
